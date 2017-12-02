@@ -1,0 +1,8 @@
+//Instructions for controlling the character and attacking
+Movement : W,A,S,D
+Jump : Space
+Attack Stance : Shift + left mouse click
+Attack Poke : Ctrl + left mouse click
+LightSaber : Press 1 to switch it on
+Change Light Saber color : Press 2 to swap colors
+HUD menu for the quality settings : Press 9
